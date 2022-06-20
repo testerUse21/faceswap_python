@@ -37,6 +37,12 @@ def _main() -> None:
       Faceswap.
     - Sets the default values and launches the relevant script.
     - Outputs help if invalid parameters are provided.
+    
+    - Generates the config files, if they don't pre-exist.
+    - Compiles the :class:`~lib.cli.args.FullHelpArgumentParser` objects for each section of
+      Faceswap.
+    - Sets the default values and launches the relevant script.
+    - Outp
     """
     generate_configs()
 
