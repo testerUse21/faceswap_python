@@ -1,7 +1,8 @@
-# Arithmetic analysis
+# Cellular Automata
 
-Arithmetic analysis is a branch of mathematics that deals with solving linear equations.
+Cellular automata are a way to simulate the behavior of "life", no matter if it is a robot or cell.
+They usually follow simple rules but can lead to the creation of complex forms.
+The most popular cellular automaton is Conway's [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
-* <https://en.wikipedia.org/wiki/System_of_linear_equations>
-* <https://en.wikipedia.org/wiki/Gaussian_elimination>
-* <https://en.wikipedia.org/wiki/Root-finding_algorithms>
+* <https://en.wikipedia.org/wiki/Cellular_automaton>
+* <https://mathworld.wolfram.com/ElementaryCellularAutomaton.html>
